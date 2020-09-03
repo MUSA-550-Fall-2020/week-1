@@ -42,7 +42,14 @@ There are also a few good resources from the Berkeley Data Science Institute:
 
 ## Documentation
 
-- [Jupyter notebook documentation](https://jupyter.readthedocs.io/en/latest/content-quickstart.html)
+- Jupyter notebook documenttion:
+  - [Introduction](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#introduction)
+  - [Starting the notebook server](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#starting-the-notebook-server)
+  - [Creating a new document](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#creating-a-new-notebook-document)
+  - [Opening notebooks](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#opening-notebooks)
+  - [Notebook user interface](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface)
+  - [Structure of a notebook document](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#structure-of-a-notebook-document)
+  - [User interface components](https://jupyter-notebook.readthedocs.io/en/stable/ui_components.html)
 - [Guide to Markdown in notebook cells](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
 - [Binder Documentation](https://mybinder.readthedocs.io/en/latest/)
 - [pandas documentation](https://pandas.pydata.org/pandas-docs/stable/)
